@@ -11,8 +11,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 I'm Barbara Calderon, a software developer.
 
 - [Github](https://www.github.com/barbaracalderon)
-- [Linkedin](https://www.linkedin.com/in/barbaracalderondev)
-- [Twitter](https://www.x.com/bederoni)
+- [Linkedin](https://www.linkedin.com/in/aditya-chavan2)
+
 
 ## The Project
 
