@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/angular-portfolio-app",
+            "outputPath": "dist/Angular_Portfolio2025",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -92,9 +92,6 @@
             ],
             "scripts": []
           }
-        },
-        "deploy": {
-          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
