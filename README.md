@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Author
 
-I'm Barbara Calderon, a software developer.
+I'm Aditya Chavan, a software developer.
 
 - [Github](https://github.com/aditya19chavan)
 - [Linkedin](https://www.linkedin.com/in/aditya-chavan2)
