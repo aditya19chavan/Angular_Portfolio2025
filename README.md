@@ -2,7 +2,6 @@
 
 This is my personal portfolio website built with Angular, Typescript, HTML5, CSS3, Bootstrap, Ngx-Bootstrap, DevIcons and Angular Material. It's currently deployed on the web: [https://angular-portfolio-app-omega.vercel.app/](https://angular-portfolio-app-omega.vercel.app/)
 
-![Barbara Calderon's Angular Portfolio App](portfolio.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
@@ -10,7 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 I'm Barbara Calderon, a software developer.
 
-- [Github](https://www.github.com/barbaracalderon)
+- [Github](https://github.com/aditya19chavan)
 - [Linkedin](https://www.linkedin.com/in/aditya-chavan2)
 
 
