@@ -1,7 +1,7 @@
 git add .
 # AC | Angular Portfolio App
 
-This is my personal portfolio website built with Angular, Typescript, HTML5, CSS3, Bootstrap, Ngx-Bootstrap, DevIcons and Angular Material. It's currently deployed on the web: 
+This is my personal portfolio website built with Angular, Typescript, HTML5, CSS3, Bootstrap, Ngx-Bootstrap, DevIcons and Angular Material. It's currently deployed on the web: ( https://angular-portfolio2025-bwhjnmjz5-adis-projects-81c0c17f.vercel.app )
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
